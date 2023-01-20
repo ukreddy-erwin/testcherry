@@ -23,7 +23,7 @@ resource "aws_instance" "myec2" {
 
   tags = {
     Name = "HelloWorld",
-    Owner = "ukreddy@erwin.com"
+    Owner = "ukreddy@test2.com"
   }
 }
 
